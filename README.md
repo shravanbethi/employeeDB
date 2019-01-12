@@ -1,15 +1,16 @@
 # employeeDB
 a simple crud application on employeeDB
-## functions
-addEmployee()
-deleteEmployee()
-updateEmployee()
-viewAll()
+### functions
+#### addEmployee()
+#### deleteEmployee()
+#### updateEmployee()
+#### viewAll()
+
 ## Requirements
-mongodb
-nodejs
-express
-postman addon
+#### mongodb
+#### nodejs
+#### express
+#### postman addon
 ## steps:
 1)start the server by using this command: node app.js
 2)open the chrome postman addon 
